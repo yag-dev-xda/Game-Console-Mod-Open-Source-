@@ -1,5 +1,5 @@
 # Game-Console-Mod-Open-Source-
-Source code for the game console mod (Minecraft 1.14.4-1.15.2) (https://www.curseforge.com/minecraft/mc-mods/game-console-mod)
+Source code for the game console mod (Minecraft 1.12.2-1.15.2) (https://www.curseforge.com/minecraft/mc-mods/game-console-mod)
 # Version 1.0
-# 1.12.2 and 1.8 support is planned.
-# Use MCreator to make changes/compile and use WinRAR to extract source code.
+# 1.8 support is planned.
+# Use MCreator 2020.5 or later to make changes/compile and use WinRAR to extract source code.

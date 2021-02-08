@@ -1,10 +1,10 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
     "textures": {
-        "0": "blocks/back",
-        "1": "blocks/sides",
-        "2": "blocks/front",
-        "3": "blocks/top"
+        "0": "blocks/sxfront",
+        "1": "blocks/sxsides",
+        "2": "blocks/sxback",
+        "3": "blocks/sxtop"
     },
     "display": {
         "head": {
@@ -58,7 +58,7 @@
                 "east": { "texture": "#1", "uv": [ 0, 0, 16, 16 ] },
                 "south": { "texture": "#2", "uv": [ 0, 0, 16, 16 ] },
                 "west": { "texture": "#1", "uv": [ 0, 0, 16, 16 ] },
-                "up": { "texture": "#3", "uv": [ 0, 0, 16, 16 ], "rotation": 270 },
+                "up": { "texture": "#3", "uv": [ 0, 0, 16, 16 ], "rotation": 90 },
                 "down": { "texture": "#1", "uv": [ 0, 0, 16, 16 ] }
             }
         }
